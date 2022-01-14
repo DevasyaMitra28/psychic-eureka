@@ -1,2 +1,0 @@
-# psychic-eureka
-Supervised ML
